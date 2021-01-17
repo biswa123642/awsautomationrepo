@@ -10,7 +10,7 @@ pipeline {
   stages {
     stage('checkout') {
         steps {
-            git 'https://github.com/VamsiTechTuts/awsautomationrepo.git'
+            git 'https://github.com/biswa123642/awsautomationrepo.git'
         }
     }
 	stage('Setup') {
