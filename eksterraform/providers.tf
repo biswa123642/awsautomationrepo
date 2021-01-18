@@ -5,8 +5,6 @@
 provider "aws" {
   region  = "us-east-1"
   version = ">= 2.38.0"
-  AWS_ACCESS_KEY_ID = "AKIA6KIIRCZOAX4B5V7V"
-  AWS_SECRET_ACCESS_KEY = "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"
 }
 
 # Using these data sources allows the configuration to be
